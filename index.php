@@ -9,5 +9,6 @@
 <body>
     <h1>Git</h1>
     <p>Welcome to git.</p>
+    <script src="app.js"></script>
 </body>
 </html>

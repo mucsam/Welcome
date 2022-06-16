@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Njoro</h1>
+    <p>Welcome to Njoro, your software solutions man.</p>
 </body>
 </html>
